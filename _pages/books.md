@@ -6,12 +6,9 @@ permalink: /books/
 
 A list of books I've read. Books I particularly enjoyed or appreciated are in bold.
 
-# Currently reading: 
+# 2023
 
-- Bad Pharma by Ben Goldacre
-- See What You Made Me Do by Jess Hill
-- More Than A Woman by Caitlin Moran
-- The Diary of Virginia Woolf, Vol. 1 by Anne Bell (ed)
+1. How (Not) to be Strong by Alex Scott
 
 # 2022
 
